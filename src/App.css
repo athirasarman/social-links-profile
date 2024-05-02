@@ -60,3 +60,6 @@ button {
   padding:8px;
   border-radius: 8px;
 }
+button:active{
+  background-color: var(--green);
+}
