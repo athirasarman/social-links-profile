@@ -3,8 +3,6 @@
     src: url('../fonts/Inter-VariableFont_slnt\,wght.ttf');
 }
  
- 
- 
  :root{
     /* Primary  Colors*/
     --green: hsl(75, 94%, 57%);
